@@ -1803,7 +1803,6 @@
 127.0.0.1 amobee.com
 
 # [amplitude.com]
-127.0.0.1 amplitude.com
 127.0.0.1 api.amplitude.com
 127.0.0.1 api2.amplitude.com
 127.0.0.1 cdn.amplitude.com
@@ -3282,9 +3281,6 @@
 127.0.0.1 api.cloudmobi.net
 127.0.0.1 logger.cloudmobi.net
 
-# [cludo.com]
-127.0.0.1 customer.cludo.com
-
 # [cluep.com]
 127.0.0.1 cas.cluep.com
 127.0.0.1 dev-as.cluep.com
@@ -3474,9 +3470,6 @@
 # [cordial.com]
 127.0.0.1 events-stream-svc.usw2.cordial.com
 127.0.0.1 message-hub-svc.usw2.cordial.com
-
-# [coremedia.cloud]
-127.0.0.1 sitegenesis.production.deckers.coremedia.cloud
 
 # [coremetrics.com]
 127.0.0.1 coremetrics.com
@@ -4173,12 +4166,6 @@
 # [ebz.io]
 127.0.0.1 ebz.io
 
-# [ecbsn.com]
-127.0.0.1 apituner.ecbsn.com
-127.0.0.1 api.engager.ecbsn.com
-127.0.0.1 events.engager.ecbsn.com
-127.0.0.1 ffconf.ecbsn.com
-
 # [ecorebates.com]
 127.0.0.1 static.ecorebates.com
 
@@ -4206,7 +4193,6 @@
 127.0.0.1 v1.addthisedge.com.edgekey.net
 127.0.0.1 adobetag.com.edgekey.net
 127.0.0.1 san-www.adobetag.com.edgekey.net
-127.0.0.1 api.agoda.com.edgekey.net
 127.0.0.1 aniview.com.edgekey.net
 127.0.0.1 wildcard.aniview.com.edgekey.net
 127.0.0.1 wl.aniview.com.edgekey.net
@@ -4381,11 +4367,6 @@
 
 # [wpsconfig4svr.elasticbeanstalk.com]
 127.0.0.1 wpsconfig4svr.elasticbeanstalk.com
-
-# [emarsys.net]
-127.0.0.1 assets.emarsys.net
-127.0.0.1 me-client.eservice.emarsys.net
-127.0.0.1 mobile-sdk-config.gservice.emarsys.net
 
 # [emb-api.com]
 127.0.0.1 config.emb-api.com
@@ -10148,9 +10129,6 @@
 127.0.0.1 track.tappx.com
 127.0.0.1 imp.track.tappx.com
 
-# [tapresearch.com]
-127.0.0.1 www.tapresearch.com
-
 # [taps.io]
 127.0.0.1 api.taps.io
 
@@ -10898,10 +10876,6 @@
 # [vads.net.vn]
 127.0.0.1 vads.net.vn
 
-# [vaicore.site]
-127.0.0.1 co.vaicore.site
-127.0.0.1 int.vaicore.site
-
 # [vaicore.store]
 127.0.0.1 int.vaicore.store
 
@@ -11490,7 +11464,6 @@
 127.0.0.1 ups.analytics.yahoo.com
 127.0.0.1 beap-bc.yahoo.com
 127.0.0.1 comet.yahoo.com
-127.0.0.1 fc.yahoo.com
 127.0.0.1 ganon.yahoo.com
 127.0.0.1 gemini.yahoo.com
 127.0.0.1 beap.gemini.yahoo.com

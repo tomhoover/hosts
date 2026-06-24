@@ -1,5 +1,15 @@
 version: 2
 updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: monthly
+    labels:
+      - dependencies
+    groups:
+      github-actions:
+        patterns:
+          - "*"
   - package-ecosystem: "pip"
     directory: "/"
     schedule:
@@ -8,10 +18,3 @@ updates:
       - dependencies
       - python
     versioning-strategy: lockfile-only
-  - package-ecosystem: "github-actions"
-    directory: "/"
-    schedule:
-      interval: monthly
-    labels:
-      - dependencies
-      - github_actions
